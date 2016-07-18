@@ -8,6 +8,10 @@
   -->
 <object name="portal_types" meta_type="Plone Types Tool">
   <!-- -*- extra stuff goes here -*- -->
+  <object name="PPLibSys0716.app.libconfigs" meta_type="Dexterity FTI" />
+  <object name="PPLibSys0716.app.genre" meta_type="Dexterity FTI" />
+  <object name="PPLibSys0716.app.shelf" meta_type="Dexterity FTI" />
+  <object name="PPLibSys0716.app.bookshelf" meta_type="Dexterity FTI" />
   <object name="PPLibSys0716.app.librarysystemapp" meta_type="Dexterity FTI" />
   <object name="PPLibSys0716.app.bookgenres" meta_type="Dexterity FTI" />
 </object>
